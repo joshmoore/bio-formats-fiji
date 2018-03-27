@@ -1,5 +1,5 @@
-Bio-Formats Fiji
-================
+Bio-Formats Download
+====================
 
 [![Build Status](https://travis-ci.org/openmicroscopy/bio-formats-fiji.svg)](https://travis-ci.org/openmicroscopy/bio-formats-fiji)
 
